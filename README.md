@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @rameenejaz
 
-- 🧑‍💻 I’m a fresh Software Engineering student at FAST University Lahore, diving into the world of code.
+- 🧑‍💻 I’m a fresh Software Engineering student at Comsats University Lahore, diving into the world of code.
 - 👀 I’m fascinated by all things tech—whether it's algorithms, AI, or the latest in software development.
 - 🌱 I’m currently learning C++ and exploring the basics of programming, data structures, and problem-solving.
 - 💞️ I’m looking to collaborate on open-source projects, hackathons, and any cool tech ideas that push the boundaries of what's possible.
